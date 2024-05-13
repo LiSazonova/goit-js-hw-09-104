@@ -24,7 +24,8 @@ input {
     margin-top: 8px;
 }
 
-input:hover {
+input:hover,
+textarea:hover {
     border: 1px solid #000;
 }
 
